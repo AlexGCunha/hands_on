@@ -1,11 +1,1 @@
-# hands_on
-Exercises and projects pro Hands-On Machine Leaning Book
-
-##Initial test
-
-Additional text
-
-
-##More additional information
-
-Additional information added
+My solutions to exercises from Hands-on Machin Learning Book from Aurelien Géron.
